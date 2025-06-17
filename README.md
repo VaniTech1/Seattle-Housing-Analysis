@@ -4,6 +4,15 @@ This project presents an interactive dashboard created using **Tableau** to anal
 
 ---
 
+## 🔧 Tech Stack
+
+- **Tools Used**: Tableau  
+- **Project Type**: Data Analysis and Visualization  
+- **Goal**: Explore Seattle housing data to uncover how various features affect property prices  
+- **Highlights**: Created an interactive Tableau dashboard with filters for waterfront views, number of bedrooms, and zip codes to visualize pricing trends and housing demand
+
+---
+
 ## 📁 Project Files
 
 - 📊 `Seattle_Housing_Data.xlsx` – Dataset used for creating the Tableau dashboard  
